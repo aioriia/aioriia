@@ -78,4 +78,4 @@ Atuar no desenvolvimento de soluções e projetos em tecnologia, com foco em bac
 
 📌 email: espadajuramentada@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?aioriia=SEUUSUARIO&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aioriia&show_icons=true&theme=default&cache_seconds=1800)
